@@ -1,4 +1,4 @@
-#LNM Blogs
+# LNM Blogs
 LNM Blogs is a blogging platform specifically designed for LNMIIT students. It allows users to create, read, update, and delete blogs, view profiles of other users, and explore their blogs. This project utilizes a modern tech stack, including Hono.js for the backend, React.js for the frontend, and PostgreSQL as the database. The backend is deployed on Cloudflare Workers, ensuring high performance and scalability.
 
 Features:-
