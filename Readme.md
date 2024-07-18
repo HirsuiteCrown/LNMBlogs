@@ -53,3 +53,6 @@ generate prisma client => npx prisma generate --no-engine
 at end:-
 npm run dev in both frontend and backend folder(also put backend url in frontend config file)
 
+
+Final Deployed Link :- https://lnm-blogs.vercel.app/
+
