@@ -35,7 +35,7 @@ Installation Process:-
 git clone https://github.com/your-username/lnm-blogs.git
 cd lnm-blogs
 
-# For frontend
+# For frontend 
 cd frontend
 npm install
 
